@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX4\bin\Debug\netcoreapp3.1\HW1.EX4.exe
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX4\bin\Debug\netcoreapp3.1\HW1.EX4.deps.json
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX4\bin\Debug\netcoreapp3.1\HW1.EX4.runtimeconfig.json
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX4\bin\Debug\netcoreapp3.1\HW1.EX4.runtimeconfig.dev.json
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX4\bin\Debug\netcoreapp3.1\HW1.EX4.dll
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX4\bin\Debug\netcoreapp3.1\HW1.EX4.pdb
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX4\obj\Debug\netcoreapp3.1\HW1.EX4.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX4\obj\Debug\netcoreapp3.1\HW1.EX4.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX4\obj\Debug\netcoreapp3.1\HW1.EX4.AssemblyInfo.cs
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX4\obj\Debug\netcoreapp3.1\HW1.EX4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX4\obj\Debug\netcoreapp3.1\HW1.EX4.dll
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX4\obj\Debug\netcoreapp3.1\HW1.EX4.pdb
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX4\obj\Debug\netcoreapp3.1\HW1.EX4.genruntimeconfig.cache

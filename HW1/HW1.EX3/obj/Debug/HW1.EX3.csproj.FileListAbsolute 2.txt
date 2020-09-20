@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX3\bin\Debug\HW1.EX3.exe.config
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX3\bin\Debug\HW1.EX3.exe
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX3\bin\Debug\HW1.EX3.pdb
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX3\obj\Debug\HW1.EX3.Form1.resources
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX3\obj\Debug\HW1.EX3.Properties.Resources.resources
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX3\obj\Debug\HW1.EX3.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX3\obj\Debug\HW1.EX3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX3\obj\Debug\HW1.EX3.exe
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX3\obj\Debug\HW1.EX3.pdb
+\\Mac\Home\Desktop\C# .NET\HW1\HW1.EX3\obj\Debug\HW1.EX3.csprojAssemblyReference.cache

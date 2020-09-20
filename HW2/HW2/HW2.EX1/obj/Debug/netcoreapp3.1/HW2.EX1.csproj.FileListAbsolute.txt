@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\C# .NET\HW2\HW2\HW2.EX1\bin\Debug\netcoreapp3.1\HW2.EX1.exe
+\\Mac\Home\Desktop\C# .NET\HW2\HW2\HW2.EX1\bin\Debug\netcoreapp3.1\HW2.EX1.deps.json
+\\Mac\Home\Desktop\C# .NET\HW2\HW2\HW2.EX1\bin\Debug\netcoreapp3.1\HW2.EX1.runtimeconfig.json
+\\Mac\Home\Desktop\C# .NET\HW2\HW2\HW2.EX1\bin\Debug\netcoreapp3.1\HW2.EX1.runtimeconfig.dev.json
+\\Mac\Home\Desktop\C# .NET\HW2\HW2\HW2.EX1\bin\Debug\netcoreapp3.1\HW2.EX1.dll
+\\Mac\Home\Desktop\C# .NET\HW2\HW2\HW2.EX1\bin\Debug\netcoreapp3.1\HW2.EX1.pdb
+\\Mac\Home\Desktop\C# .NET\HW2\HW2\HW2.EX1\obj\Debug\netcoreapp3.1\HW2.EX1.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C# .NET\HW2\HW2\HW2.EX1\obj\Debug\netcoreapp3.1\HW2.EX1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C# .NET\HW2\HW2\HW2.EX1\obj\Debug\netcoreapp3.1\HW2.EX1.AssemblyInfo.cs
+\\Mac\Home\Desktop\C# .NET\HW2\HW2\HW2.EX1\obj\Debug\netcoreapp3.1\HW2.EX1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C# .NET\HW2\HW2\HW2.EX1\obj\Debug\netcoreapp3.1\HW2.EX1.dll
+\\Mac\Home\Desktop\C# .NET\HW2\HW2\HW2.EX1\obj\Debug\netcoreapp3.1\HW2.EX1.pdb
+\\Mac\Home\Desktop\C# .NET\HW2\HW2\HW2.EX1\obj\Debug\netcoreapp3.1\HW2.EX1.genruntimeconfig.cache
