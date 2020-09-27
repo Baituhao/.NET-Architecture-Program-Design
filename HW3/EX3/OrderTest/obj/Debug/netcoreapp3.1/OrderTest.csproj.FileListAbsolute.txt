@@ -1,0 +1,4 @@
+\\Mac\Home\Desktop\C# .NET\HW3\EX3\OrderTest\obj\Debug\netcoreapp3.1\OrderTest.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C# .NET\HW3\EX3\OrderTest\obj\Debug\netcoreapp3.1\OrderTest.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C# .NET\HW3\EX3\OrderTest\obj\Debug\netcoreapp3.1\OrderTest.AssemblyInfo.cs
+\\Mac\Home\Desktop\C# .NET\HW3\EX3\OrderTest\obj\Debug\netcoreapp3.1\OrderTest.csproj.CoreCompileInputs.cache
