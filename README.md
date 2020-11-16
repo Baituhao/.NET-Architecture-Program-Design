@@ -56,7 +56,7 @@ this homework is written by C# mainly.
 
 （3）相对地址转成绝对地址进行爬取。
 
-  例如：当前页面是 https://www.cnblogs.com/abc/时, 该页面中的链接 test/index.html 或者 ./test/index.html都相当于 https://www.cnblogs.com/abc/test/index.html ， ../zzz/index.html相当于 https://www.cnblogs.com/zzz/index.html 
+  例如：当前页面是 https://www.cnblogs.com/abc/ 时, 该页面中的链接 test/index.html 或者 ./test/index.html都相当于 https://www.cnblogs.com/abc/test/index.html ， ../zzz/index.html相当于 https://www.cnblogs.com/zzz/index.html 
 
 2、尝试使用Winform来设置初始URL，启动爬虫，显示已经爬取的URL和错误的URL信息。
 
